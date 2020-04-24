@@ -1,0 +1,13 @@
+body
+{
+	background color: #152535;
+	background-size: cover;
+}
+.example6 .navbar-brand{ 
+  background: url(https://res.cloudinary.com/candidbusiness/image/upload/v1455406304/dispute-bills-chicago.png) center / contain no-repeat;
+  width: 200px;
+}
+.flu
+{
+	background-color: #152535;
+}
